@@ -117,7 +117,8 @@ Set `VITE_API_URL` to override the API base URL. Full prerequisites, environment
 
 ## Team
 
-| Contributor | Role |
-| ----------- | ---- |
-| [Amine Sidki](https://github.com/AmineSidki) | Backend: REST API, OCR and LLM pipeline, security, deployment |
-| [Hajar El Hilali](https://github.com/Hajar-ELHILALI) | Frontend: React client, admin dashboard, UI design |
+<div align="center">
+
+[Hajar El Hilali](https://github.com/Hajar-ELHILALI) · [Amine Sidki](https://github.com/AmineSidki)
+
+</div>
